@@ -19,8 +19,9 @@ Folder "Analysis" contains the notebook presenting the analysis done for each ca
 		- Figures represnting Count of Zero and Non-Zero funding project in each category
 		- 
 	
-	3. "Funding distribution Analysis" jupyter notebook contains following analysis for each of the following
-		- Funding Distribution Analysis for each category and for all categories
+	2. "Funding distribution Analysis" jupyter notebook contains following analysis for each of the following
+		- Funding Distribution Analysis for each category and for all categories on yearly basis
+		- Project count for each category on yearly basis
 		- Figures represnting Total Funding Amount for project in each category
 		- Figures represnting count of for project in each category
 Folder "Topic Modelling" contains the notebook presenting the 3 Topic Modelling algorithms implementation and analysis done for each category.
