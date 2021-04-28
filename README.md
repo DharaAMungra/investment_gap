@@ -18,11 +18,7 @@ Folder "Analysis" contains the notebook presenting the analysis done for each ca
 		- Non zero funding project in duplicates
 		- Figures represnting Count of Zero and Non-Zero funding project in each category
 		- 
-	2. "Basic Text and Funding Analysis" jupyter notebook contains following analysis for each of the following
-		- Wordcloud figures representing most occurring words in each category
-		- Figures represnting Count project in each category for each agency
-		- Figures represnting Total Yearly Funding for project in each category
-		
+	
 	3. "Funding distribution Analysis" jupyter notebook contains following analysis for each of the following
 		- Funding Distribution Analysis for each category and for all categories
 		- Figures represnting Total Funding Amount for project in each category
